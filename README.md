@@ -1,95 +1,126 @@
-<h1 align="center">👋 Hi, I'm Waleed Arman</h1>
-
-###
-
-<h4 align="center">A Software Engineering student at An-Najah National University Passionate about technology</h4>
-
-###
-
-<h2 align="left">💡 Skills</h2>
-
-###
-
-<h3 align="left">💻 Programming Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/waleedarman/waleedarman/main/assets/banner.png" alt="Banner" width="100%"/>
 </div>
 
-###
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Waleed Arman
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<h3 align="left">🛠️ Frameworks & Tools</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student+%40+An-Najah+National+University;Passionate+Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</h3>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/waleedarman/waleedarman/main/assets/coding.gif" alt="Coding GIF" width="400"/>
+</p>
+
+I'm a passionate **Software Engineering student** at **An-Najah National University** with a strong foundation in full-stack development. I love turning ideas into reality through clean, efficient code and am always eager to learn new technologies.
+
+---
+
+## 💻 Technical Skills
+
+### 🎯 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,java,php" alt="Programming Languages" />
 </div>
 
-###
-
-<h3 align="left">🗄️ Databases</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+### 🛠️ Frameworks & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,laravel,react,git,github,vscode,figma" alt="Frameworks & Tools" />
 </div>
 
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedarman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedarman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+### 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,aws,docker" alt="Databases & Cloud" />
 </div>
 
-###
+---
 
-<h2 align="left">📫 Connect with Me</h2>
+## 📊 GitHub Analytics
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/waleed-arman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="armanwaleed89@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=dracula&hide_border=true&background=0D1117" />
 </div>
 
-###
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedarman&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=waleedarman&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=waleedarman&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleedarman&theme=dracula&bg_color=0D1117&color=00FF88&line=00BFFF&point=FF00FF&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-arman/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanwaleed89@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleedarman)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://waleedarman.github.io)
+  
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+  
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  
+</div>
+
+---
+
+## 🎵 Currently Listening To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=waleedarman&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waleedarman/waleedarman/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waleedarman/waleedarman/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/waleedarman/waleedarman/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=waleedarman&style=for-the-badge&color=00FF88" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>💫 Thanks for visiting my profile! Let's build something amazing together! 💫</i>
+</div>
