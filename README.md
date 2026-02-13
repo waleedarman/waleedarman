@@ -78,20 +78,19 @@ A full web platform where clients can post jobs and technicians send offers/bids
 
 **Technologies:** Angular + Laravel + MySQL
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedarman&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedarman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
