@@ -19,15 +19,8 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Software Engineering Student — **An-Najah National University**
-- 💻 I build real web applications using **Angular + Laravel**
-- 🚀 Currently building a **Technician Hiring Platform**
-- 🎯 Interested in **Web Development & Digital Marketing**
-- 📚 Always learning and improving my skills
-- 🌍 Goal: Become a professional Full-Stack Developer
-
----
+Versatile Software Engineering student passionate about Frontend, Backend, QA, and UX/UI design.
+Driven by innovation and efficiency, with a strong focus on crafting intuitive, high-performance digital experiences.
 
 ## 🛠️ Tech Stack
 
@@ -57,15 +50,10 @@
 
 <p align="center">
 
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=tokyonight&hide_border=true" />
 
 </p>
-
-
-
----
 
 ## 📫 Contact Me
 
