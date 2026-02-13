@@ -1,8 +1,4 @@
 <!-- HERO IMAGE / PROGRAMMER ILLUSTRATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Waleed Arman</h1>
 <h3 align="center">Full-Stack Web Developer | Angular & Laravel | Digital Marketing Background</h3>
 
@@ -17,7 +13,9 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=firefox">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -58,8 +56,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedarman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=tokyonight&hide_border=true" />
+
 </p>
+
+
 
 ---
 
