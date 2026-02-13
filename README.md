@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 </p>
----
 
 ## 👨‍💻 About Me
 Versatile Software Engineering student passionate about Frontend, Backend, QA, and UX/UI design.
@@ -44,7 +43,6 @@ Driven by innovation and efficiency, with a strong focus on crafting intuitive, 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -61,7 +59,6 @@ Driven by innovation and efficiency, with a strong focus on crafting intuitive, 
 - 💼 LinkedIn: https://www.linkedin.com/in/waleed-arman/
 - 🌐 Portfolio: https://waleedarman.github.io
 
----
 
 <p align="center">
 ⭐ If you like my projects, don't forget to star the repositories ⭐
