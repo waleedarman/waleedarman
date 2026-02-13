@@ -1,6 +1,6 @@
 <!-- HERO IMAGE / PROGRAMMER ILLUSTRATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Waleed Arman</h1>
@@ -55,39 +55,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Arman Production Website
-Creative studio portfolio website for photography & videography services.
-
-🔗 Live Demo:  
-https://arman-production-website.netlify.app
-
-**Technologies:** HTML5, CSS3, JavaScript, Cloudinary
-
----
-
-### 🛠 Technician Hiring Platform
-A full web platform where clients can post jobs and technicians send offers/bids.
-
-**Features:**
-- Job posting with images
-- Bid system
-- Accept / Reject offers
-- Dashboard tables with search & export
-
-**Technologies:** Angular + Laravel + MySQL
-
-
 ## 📊 GitHub Stats
-
-<p align="center">
-
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=waleedarman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedarman&theme=tokyonight&hide_border=true" />
-
-</p>
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedarman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
