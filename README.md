@@ -9,7 +9,7 @@
   <a href="mailto:armanwaleed89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://waleedarman.github.io">
+  <a href="https://waleed-arman-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=firefox">
   </a>
 </p>
@@ -57,7 +57,7 @@ Driven by innovation and efficiency, with a strong focus on crafting intuitive, 
 
 - 📧 Email: armanwaleed89@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/waleed-arman/
-- 🌐 Portfolio: https://waleedarman.github.io
+- 🌐 Portfolio: https://waleed-arman-portfolio.vercel.app/
 
 
 <p align="center">
