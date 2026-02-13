@@ -1,6 +1,6 @@
 <!-- HERO IMAGE / PROGRAMMER ILLUSTRATION -->
 <h1 align="center">Hi 👋, I'm Waleed Arman</h1>
-<h3 align="center">Full-Stack Web Developer | Angular & Laravel | Digital Marketing Background</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waleed-arman/">
